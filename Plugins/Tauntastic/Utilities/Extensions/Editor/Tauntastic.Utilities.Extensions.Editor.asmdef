@@ -1,0 +1,16 @@
+{
+    "name": "TauntasticUtilities.Extensions.Editor",
+    "rootNamespace": "TauntasticUtilities.Extensions.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36306199347fa294b8cee1677ba3ca0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - _asmdefPackageExporterVisualTreeAsset: {fileID: 9197481963319205126, guid: 91245d2819d5ea942a3a427752d39d47, type: 3}
+  - _asmdefAsset: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
